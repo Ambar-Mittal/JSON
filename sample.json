@@ -1,0 +1,5 @@
+{
+"usr_id":"Suri",
+"RequestType":"HTTPGet",
+"print_statement":"Getting_data for {usr_id}"
+}
